@@ -1,0 +1,49 @@
+{
+	"programmes" : [
+		{
+			"nom" : "Test tout le corps",
+			"difficulte" : 1,
+			"temps" : "4:00",
+			"type" : 1,
+			"details" : [
+				{
+					"nom-exo" : "Pompes",
+					"temps-exo" : 25,
+					"temps-recup" : 15,
+					"repition" : false,
+				},
+				{
+					"nom-exo" : "Squats",
+					"temps-exo" : 25,
+					"temps-recup" : 15,
+					"repition" : false,
+				},
+				{
+					"nom-exo" : "Mountain climbers",
+					"temps-exo" : 25,
+					"temps-recup" : 15,
+					"repition" : false,
+				},
+				{
+					"nom-exo" : "Planche",
+					"temps-exo" : 25,
+					"temps-recup" : 15,
+					"repition" : false,
+				},
+				{
+					"nom-exo" : "Chaise",
+					"temps-exo" : 25,
+					"temps-recup" : 15,
+					"repition" : false,
+				},
+				{
+					"nom-exo" : "Burpees",
+					"temps-exo" : 25,
+					"temps-recup" : 15,
+					"repition" : false,
+				}
+
+			]
+		}
+	]
+}
